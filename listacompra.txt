@@ -1,5 +1,7 @@
 Huevos
 Tomates
 Jamon
-Cerveza
+Agua
 Manzanas
+Pescado
+Pan
